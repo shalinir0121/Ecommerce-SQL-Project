@@ -1,26 +1,69 @@
 # 🛒 Online Shopping SQL Project
 
 ## 📌 Description
-This project demonstrates an online shopping database system using SQL.
+This project demonstrates an Online Shopping Database Management System using SQL.  
+It simulates core ecommerce functionalities such as customer management, product handling, and order processing through structured relational database operations.
 
-## 🧩 Features
+The project is designed for beginners to understand practical implementation of SQL in ecommerce systems.
+
+---
+
+## ✨ Features
 - Customer management
-- Product catalog
-- Order processing
-- Advanced SQL queries (JOIN, GROUP BY, VIEW)
+- Product catalog handling
+- Order processing system
+- SQL joins and aggregations
+- GROUP BY and VIEW operations
+- Frontend integration using HTML
+- Sample ecommerce dataset for practice
+
+---
 
 ## 🛠️ Technologies Used
 - SQL (Nimbus Platform)
-- HTML (Frontend)
+- HTML
+- Relational Database Concepts
+
+---
 
 ## 📂 Project Structure
-- ecommerce_schema.sql → Table creation
-- ecommerce_data.sql → Data insertion
-- ecommerce_queries.sql → Queries
-- ecommerce_frontend.html → Frontend UI
-- project_screenshots → Outputs
+
+| File Name | Purpose |
+|------------|----------|
+| `ecommerce_schema.sql` | Table creation and schema |
+| `ecommerce_data.sql` | Sample data insertion |
+| `ecommerce_queries.sql` | SQL queries and analysis |
+| `ecommerce_frontend.html.html` | Frontend interface |
+| `project_screenshots` | Output screenshots |
+
+---
 
 ## 🚀 How to Run
-1. Run schema file
-2. Insert data
-3. Execute queries
+
+1. Execute `ecommerce_schema.sql`
+2. Run `ecommerce_data.sql`
+3. Execute `ecommerce_queries.sql`
+4. Open frontend HTML file in browser
+
+---
+
+## 📚 Concepts Covered
+- SQL Joins
+- Aggregate Functions
+- Views
+- Database Relationships
+- Query Optimization Basics
+
+---
+
+## 📸 Screenshots
+Project output screenshots are available in the `project_screenshots` folder.
+
+---
+
+## 🎯 Learning Outcomes
+By completing this project, users can:
+- Understand ecommerce database structure
+- Practice real-world SQL queries
+- Learn relational database design
+- Improve SQL problem-solving skills
